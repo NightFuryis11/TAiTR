@@ -21,8 +21,8 @@ namespace TAiTR.Items.Weapons
 			item.useStyle = 5;
 			item.noMelee = true;
 			item.knockBack = 4;
-			item.value = 10000;
-			item.rare = 6;
+			item.value = 25000;
+			item.rare = 5;
 			item.UseSound = SoundID.Item11;
 			item.autoReuse = false;
 			item.shoot = 10;
@@ -33,7 +33,7 @@ namespace TAiTR.Items.Weapons
 		public override void AddRecipes() {
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.HallowedBar, 15);
-			recipe.AddTile(TileID.Anvils);
+			recipe.AddTile(TileID.MythrilAnvil);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}	
