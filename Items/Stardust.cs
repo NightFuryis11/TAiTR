@@ -6,7 +6,7 @@ namespace TAiTR.Items
 	public class Stardust : ModItem
 	{
 		public override void SetStaticDefaults() {
-			Tooltip.SetDefault("'You sense some vauge magical power...'");
+			Tooltip.SetDefault("'You sense some vague magical power...'");
 		}
 
 		public override void SetDefaults() {
