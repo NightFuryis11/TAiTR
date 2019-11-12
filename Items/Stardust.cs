@@ -20,9 +20,9 @@ namespace TAiTR.Items
 		public override void AddRecipes() {
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.FallenStar);
-            recipe.AddIngredient(ItemID.Bottle);
-            recipe.AddTile(TileID.Bottles);
-            recipe.SetResult(this, 5);
+            		recipe.AddIngredient(ItemID.Bottle);
+            		recipe.AddTile(TileID.Bottles);
+            		recipe.SetResult(this, 5);
 			recipe.AddRecipe();
 		}
 	}
