@@ -1,3 +1,3 @@
 author = NightFuryis11
-version = pre-Alpha
+version = 0.0
 displayName = The Adventures in Terraria Remade
