@@ -30,7 +30,7 @@ not to be used for the mod directly, at this point, it'll be put towards my asso
 
 
 ABOUT THE MOD
-  This mod was originally born as an idea by Terraria COmmunity Forum user ProfessorBoo, under the pseudonym The Adventures in
+  This mod was originally born as an idea by Terraria Community Forum user ProfessorBoo, under the pseudonym The Adventures in
 Terraria. After a hefty amount of dicussion, Boo seemed to fall out of contact with the rest of us, and ideas started slowing
 down. Up until this point, the only actual work that had been put into the mod was a handful of sprites I myself had made, but
 even these were highly conceptual. After some time, after it had become clear that Boo was not going to become active any time
