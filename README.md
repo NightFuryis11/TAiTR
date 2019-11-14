@@ -22,5 +22,5 @@ If you would like to contribute to The Adventures in Terraria Remade Mod ("The M
   
   
   By proposing an alteration to the code of The Mod you accept and agree to abide by the Terms stated in the CoC above. Failure to
-    abide by the Terms waives any recognition you should otherwise recieve, including those listed in Term 5 of the CoC and any
+    abide by the Terms may waive any recognition you should otherwise recieve, including those listed in Term 5 of the CoC and any
     portion of the Copyright and its protections and responsibilities you would have otherwise been entitled to.
