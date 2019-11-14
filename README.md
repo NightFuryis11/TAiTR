@@ -12,7 +12,8 @@ If you would like to contribute to The Adventures in Terraria Remade Mod ("The M
         
     3 - NEVER commit a code alteration directly to the master branch unless you are a registered colaborator. When you suggest a
         code alteration, create a new brand following the name format <file altered>-<purpose for altering>. Also include a
-        detailed description of why you proposed the alteration.
+        detailed description of why you proposed the alteration. Try to follow closely the format given by the example pull
+        request and example issue.
         
     4 - In general, unless you know what you're doing, it is safer to create an issue report for something that could be done
         better, or needs fixed, instead of trying to fix it yourself.
