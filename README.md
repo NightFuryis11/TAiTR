@@ -6,10 +6,10 @@ Contents:
  ln 19 - How to contact and support me
  ln 32 - About the mod
  ln 45 - How to install
- ln - Contributing to the cause
+ ln 52 - Contributing to the cause
  
  
- ABOUT ME
+ABOUT ME
    Hi guys, this is NightFuryis11! Well, people call me Night around the public sphere. I'm a small-time YouTuber and a high
 school student, as well as an (almost Eagle) Boy Scout. For the longest time, I've had such facination with certain mods for both
 Terraria and Minecraft, but only recently have I decided to try my hand at it. This mod is the result. THis is just one of the
