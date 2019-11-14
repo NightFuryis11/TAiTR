@@ -10,7 +10,7 @@ If you would like to contribute to The Adventures in Terraria Remade Mod ("The M
         accomplishes the same action but is cleaner, that is acceptable but generally unnecessary, and may make my own additions
         harder.
         
-    3 - NEVER commit a code alteration directly to the master branch unless you are a registered colaborator. When you suggest a
+    3 - NEVER commit a code alteration directly to the master branch unless you are a registered collaborator. When you suggest a
         code alteration, create a new brand following the name format <file altered>-<purpose for altering>. Also include a
         detailed description of why you proposed the alteration. Try to follow closely the format given by the example pull
         request and example issue.
@@ -19,7 +19,7 @@ If you would like to contribute to The Adventures in Terraria Remade Mod ("The M
         better, or needs fixed, instead of trying to fix it yourself.
         
     5 - If you successfully propose an alteration or fix to the code, and it is accepted, your username will be put at the end
-        of the .cs file in a // comment. Do not do this yourself, but wait for it do be done by a colaborator.
+        of the .cs file in a // comment. Do not do this yourself, but wait for it do be done by a collaborator.
   
   
   By proposing an alteration to the code of The Mod you accept and agree to abide by the Terms stated in the CoC above. Failure to
