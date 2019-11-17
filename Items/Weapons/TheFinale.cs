@@ -32,6 +32,7 @@ namespace TAiTR.Items.Weapons
 			item.autoReuse = true;
 			item.shoot = ProjectileType<FinaleBolt>();
 			item.shootSpeed = 10f;
+            item.crit = -12;
 		}
 
 		public override void AddRecipes() {

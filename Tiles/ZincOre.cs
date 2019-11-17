@@ -24,11 +24,16 @@ namespace TAiTR.Tiles
             ModTranslation name = CreateMapEntryName();
             name.SetDefault("Zinc");
             AddMapEntry(new Color(107, 117, 124), name);
-            dustType = 82;
             drop = ItemType<Items.Placeable.ZincOre>();
 			soundType = 21;
 			soundStyle = 1;
 			mineResist = 1f;
 		}
-	}
+
+        public override bool CreateDust(int i, int j, ref int type)
+        {
+            type = DustType<ZincDust>();
+            return true;
+            }
+    }
 }

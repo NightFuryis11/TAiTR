@@ -32,6 +32,7 @@ namespace TAiTR.Items.Weapons
 			item.autoReuse = true;
 			item.shoot = ProjectileType<Firework>();
 			item.shootSpeed = 8f;
+            item.crit = -10;
 		}
 
 		public override void AddRecipes() {

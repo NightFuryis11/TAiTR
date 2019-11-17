@@ -29,7 +29,6 @@ namespace TAiTR.Projectiles
 
         public override void AI()
         {
-            projectile.velocity.Y += projectile.ai[0];
             if (Main.rand.NextBool(3))
             {
                 Dust.NewDust(projectile.position + projectile.velocity, projectile.width, projectile.height, DustType<Sparkle>(), projectile.velocity.X * 0.5f, projectile.velocity.Y * 0.5f);
@@ -55,7 +54,7 @@ namespace TAiTR.Projectiles
                     projectile.frame = 0;
                 }
             }
-            if (explosion > 0.9f && explosion < 1.1f)
+            if (explosion == 1)
             {
                 projectile.timeLeft = 3;
                 explosion = 2;
@@ -66,16 +65,11 @@ namespace TAiTR.Projectiles
             if (projectile.owner == Main.myPlayer && projectile.timeLeft <= 3)
             {
                 projectile.position = projectile.Center;
-                //projectile.position.X = projectile.position.X + (float)(projectile.width / 2);
-                //projectile.position.Y = projectile.position.Y + (float)(projectile.height / 2);
                 projectile.width = 100;
                 projectile.height = 100;
                 projectile.Center = projectile.position;
-                //projectile.position.X = projectile.position.X + (float)(projectile.width / 2);
-                //projectile.position.Y = projectile.position.Y + (float)(projectile.height / 2);
                 drawOffsetX = 50;
                 drawOriginOffsetY = 50;
-                //projectile.direction = projectile.oldDirection;
             }
         }
 
